@@ -1,0 +1,14 @@
+{
+    "Products": [
+        {
+            "ProductId": "com.easybrain.block.puzzle.games.noads",
+            "GameProductType": "NoAds",
+            "StoreProductType": 1,
+            "ProductAmount": 1,
+            "GooglePlayProductID": "com.easybrain.block.puzzle.games.noads",
+            "ItunesProductID": "com.easybrain.block.puzzle.games.noads",
+            "DefaultPrice": "",
+            "AdditionalData": ""
+        }
+    ]
+}

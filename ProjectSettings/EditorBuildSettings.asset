@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GDPR.unity
+    guid: c3d7b843cc07a2c44ab016706e7a75e4
+  - enabled: 1
+    path: Assets/Scenes/Init.unity
+    guid: c3e012767441fff46a59a4b19b384b95
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 156e3fd2dda46dc45be4f048f627f7f9
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 6cc87f087f80d63419b5e88ea0dadb3d
+  - enabled: 1
+    path: Assets/Scenes/Tutorial_final.unity
+    guid: 1b4398336f4385449b18ebb8a9f09fac
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 2a9d1a90bf61a63439ff7024aae21fd3
+  - enabled: 1
+    path: Assets/Scenes/LevelEditor.unity
+    guid: 02e28ed0555f65e45b7bda6d640e156a
+  - enabled: 1
+    path: Assets/Scenes/DcGameOver.unity
+    guid: 079e47422efd4704692c599552141fdc
+  - enabled: 1
+    path: Packages/com.easybrain.rewarded/Scenes/Rewarded.unity
+    guid: 3811b40c53a41554995f45fa233d5cfa
+  - enabled: 1
+    path: Assets/ArtPuzzles/Scenes/ArtPuzzlesGameScene.unity
+    guid: 0bee7ba5a30374d4687c0a2bc7e9c00e

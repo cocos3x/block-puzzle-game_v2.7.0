@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "A8"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 4a5c1127574e43a3940e58de769120f3, type: 3}
+    - {fileID: 21300000, guid: b6e7693413f642d3950f5ed3ba7928c8, type: 3}
+    - {fileID: 21300000, guid: 6f780744d52a4ef58a6cc56021fe064b, type: 3}
+    - {fileID: 21300000, guid: 844a3c8609c345ac95e5b248914e3722, type: 3}
+    - {fileID: 21300000, guid: 599637e5cdba444da4a171200ae2455b, type: 3}
+    - {fileID: 21300000, guid: fa6ac08c9a2744c79f3890e61eebe0e2, type: 3}
+    - {fileID: 21300000, guid: de07019ffb224bf89012768d67623714, type: 3}
+    - {fileID: 21300000, guid: d2b9754cb4234889ab6299dd6eccc19a, type: 3}
+    - {fileID: 21300000, guid: 7517ba8c32ef450a951faf36f4627675, type: 3}
+    - {fileID: 21300000, guid: 2ed05c1a5fff4c79a0cd827beb61fda5, type: 3}
+    - {fileID: 21300000, guid: e4abeeaf7ad24910870e4755b1de4b59, type: 3}
+    - {fileID: 21300000, guid: 16eaf03cfd4443f7b8aabc43b5c1f27b, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "A8"
+  m_IsVariant: 0

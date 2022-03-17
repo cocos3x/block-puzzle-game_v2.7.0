@@ -1,0 +1,13 @@
+{
+    "Products": [
+        {
+            "ProductId": "com.easybrain.blockudoku.noads",
+            "GameProductType": "NoAds",
+            "ProductAmount": 1,
+            "StoreProductType": 1,
+            "GooglePlayProductID": "com.easybrain.blockudoku.noads",
+            "ItunesProductID": "com.easybrain.blockudoku.noads",
+            "DefaultPrice": "$4.99"
+        }
+    ]
+}

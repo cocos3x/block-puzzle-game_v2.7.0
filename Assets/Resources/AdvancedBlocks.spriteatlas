@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "AdvancedBlocks"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: cf85ba05860c45baacda589b38478799, type: 3}
+    - {fileID: 21300000, guid: bfba77c033a84a0e942048e05cb26978, type: 3}
+    - {fileID: 21300000, guid: 334084e72cc0471e8adf6d0815c053c7, type: 3}
+    - {fileID: 21300000, guid: 400350491e9d4e939e52620c2a0140c6, type: 3}
+    - {fileID: 21300000, guid: 8cf750fad1864d928409e93b8de8cbc6, type: 3}
+    - {fileID: 21300000, guid: 487fe6b7ab25459b8dfe4512e330a19b, type: 3}
+    - {fileID: 21300000, guid: c710168d864e4b5bab653f4c3e6c450d, type: 3}
+    - {fileID: 21300000, guid: b419c425f92d4fc78eb0dbeeea962f2b, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "AdvancedBlocks"
+  m_IsVariant: 0

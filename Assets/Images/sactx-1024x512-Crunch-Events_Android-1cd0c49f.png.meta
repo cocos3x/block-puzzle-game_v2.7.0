@@ -1,0 +1,951 @@
+fileFormatVersion: 2
+guid: 759a9303a9b4477f84b0863bf382c8b5
+timeCreated: 1646693467
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: figere 2
+    21300002: figere 10
+    21300004: small_icon_event_2_game_silver
+    21300006: figure_7
+    21300008: small_icon_event_2_gold
+    21300010: small_icon_bronze
+    21300012: figure_8
+    21300014: icon_rotation
+    21300016: icon_event_2
+    21300018: figure_5
+    21300020: small_icon_silver
+    21300022: small_icon_gold
+    21300024: small_icon_game_screen_empty_wood
+    21300026: small_icon_event_2_game_screen_empty_wood
+    21300028: figere 7
+    21300030: figere 11
+    21300032: figure_6
+    21300034: figur_4
+    21300036: figere 5
+    21300038: small_icon_event_2_game_bronze
+    21300040: small_icon_event_2_bronze
+    21300042: figere 8
+    21300044: small_icon_game_silver
+    21300046: small_icon_game_gold
+    21300048: small_icon_event_2_game_screen_empty_wight
+    21300050: small_icon_event_2_silver
+    21300052: figere 6
+    21300054: figere 1
+    21300056: small_icon_event_2_game_gold
+    21300058: figere 9
+    21300060: figere 4
+    21300062: small_icon_game_bronze
+    21300064: small_icon_game_screen_empty_wight
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 65
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 65
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: figere 2
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 118
+        width: 94
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5079936, y: 0.8463897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 47}
+        - {x: 47, y: 47}
+        - {x: -47, y: -47}
+      - - {x: -47, y: -47}
+        - {x: 47, y: 47}
+        - {x: 47, y: -47}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figere 10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 418
+        width: 92
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7688601}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.99999, y: 31}
+        - {x: 46, y: 31}
+        - {x: -45.99999, y: -31}
+      - - {x: -45.99999, y: -31}
+        - {x: 46, y: 31}
+        - {x: 46, y: -31}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_icon_event_2_game_silver
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 417
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 31.5}
+        - {x: 31.5, y: 31.5}
+        - {x: -31.5, y: -31.5}
+      - - {x: -31.5, y: -31.5}
+        - {x: 31.5, y: 31.5}
+        - {x: 31.5, y: -31.5}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figure_7
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 230
+        width: 84
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 43.5}
+        - {x: 42, y: 43.5}
+        - {x: -42, y: -43.5}
+      - - {x: -42, y: -43.5}
+        - {x: 42, y: 43.5}
+        - {x: 42, y: -43.5}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_icon_event_2_gold
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 148
+        width: 108
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 72}
+        - {x: 54, y: 72}
+        - {x: -54, y: -72}
+      - - {x: -54, y: -72}
+        - {x: 54, y: 72}
+        - {x: 54, y: -72}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_icon_bronze
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 281
+        width: 108
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 72}
+        - {x: 54, y: 72}
+        - {x: -54, y: -72}
+      - - {x: -54, y: -72}
+        - {x: 54, y: 72}
+        - {x: 54, y: -72}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figure_8
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 296
+        width: 117
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: 58.5}
+        - {x: 58.5, y: 58.5}
+        - {x: -58.5, y: -58.5}
+      - - {x: -58.5, y: -58.5}
+        - {x: 58.5, y: 58.5}
+        - {x: 58.5, y: -58.5}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_rotation
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 118
+        width: 108
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 54}
+        - {x: 54, y: 54}
+        - {x: -54, y: -54}
+      - - {x: -54, y: -54}
+        - {x: 54, y: 54}
+        - {x: 54, y: -54}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_event_2
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 108
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 54}
+        - {x: 54, y: 54}
+        - {x: -54, y: -54}
+      - - {x: -54, y: -54}
+        - {x: 54, y: 54}
+        - {x: 54, y: -54}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figure_5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 132
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66, y: 64.5}
+        - {x: 66, y: 64.5}
+        - {x: -66, y: -64.5}
+      - - {x: -66, y: -64.5}
+        - {x: 66, y: 64.5}
+        - {x: 66, y: -64.5}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_icon_silver
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 281
+        width: 108
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 72}
+        - {x: 54, y: 72}
+        - {x: -54, y: -72}
+      - - {x: -54, y: -72}
+        - {x: 54, y: 72}
+        - {x: 54, y: -72}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_icon_gold
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 108
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 72}
+        - {x: 54, y: 72}
+        - {x: -54, y: -72}
+      - - {x: -54, y: -72}
+        - {x: 54, y: 72}
+        - {x: 54, y: -72}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_icon_game_screen_empty_wood
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 0
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 31.5}
+        - {x: 31.5, y: 31.5}
+        - {x: -31.5, y: -31.5}
+      - - {x: -31.5, y: -31.5}
+        - {x: 31.5, y: 31.5}
+        - {x: 31.5, y: -31.5}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_icon_event_2_game_screen_empty_wood
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 283
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 31.5}
+        - {x: 31.5, y: 31.5}
+        - {x: -31.5, y: -31.5}
+      - - {x: -31.5, y: -31.5}
+        - {x: 31.5, y: 31.5}
+        - {x: 31.5, y: -31.5}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figere 7
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 216
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5133227, y: 0.1376232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: -35, y: -35}
+      - - {x: -35, y: -35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figere 11
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 114
+        height: 114
+      alignment: 9
+      pivot: {x: 0.2242206, y: 0.2215561}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 57}
+        - {x: 57, y: 57}
+        - {x: -57, y: -57}
+      - - {x: -57, y: -57}
+        - {x: 57, y: 57}
+        - {x: 57, y: -57}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figure_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 102
+        height: 258
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 129}
+        - {x: 51, y: 129}
+        - {x: -51, y: -129}
+      - - {x: -51, y: -129}
+        - {x: 51, y: 129}
+        - {x: 51, y: -129}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figur_4
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 129
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.5, y: 64.5}
+        - {x: 64.5, y: 64.5}
+        - {x: -64.5, y: -64.5}
+      - - {x: -64.5, y: -64.5}
+        - {x: 64.5, y: 64.5}
+        - {x: 64.5, y: -64.5}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figere 5
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 357
+        width: 34
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 53}
+        - {x: 17, y: 53}
+        - {x: -17, y: -53}
+      - - {x: -17, y: -53}
+        - {x: 17, y: 53}
+        - {x: 17, y: -53}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_icon_event_2_game_bronze
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 290
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 31.5}
+        - {x: 31.5, y: 31.5}
+        - {x: -31.5, y: -31.5}
+      - - {x: -31.5, y: -31.5}
+        - {x: 31.5, y: 31.5}
+        - {x: 31.5, y: -31.5}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_icon_event_2_bronze
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 133
+        width: 108
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 72}
+        - {x: 54, y: 72}
+        - {x: -54, y: -72}
+      - - {x: -54, y: -72}
+        - {x: 54, y: 72}
+        - {x: 54, y: -72}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figere 8
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 112
+        width: 68
+        height: 100
+      alignment: 9
+      pivot: {x: 0.2481932, y: 0.1550432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 50}
+        - {x: 34, y: 50}
+        - {x: -34, y: -50}
+      - - {x: -34, y: -50}
+        - {x: 34, y: 50}
+        - {x: 34, y: -50}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_icon_game_silver
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 67
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 31.5}
+        - {x: 31.5, y: 31.5}
+        - {x: -31.5, y: -31.5}
+      - - {x: -31.5, y: -31.5}
+        - {x: 31.5, y: 31.5}
+        - {x: 31.5, y: -31.5}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_icon_game_gold
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 216
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 31.5}
+        - {x: 31.5, y: 31.5}
+        - {x: -31.5, y: -31.5}
+      - - {x: -31.5, y: -31.5}
+        - {x: 31.5, y: 31.5}
+        - {x: 31.5, y: -31.5}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_icon_event_2_game_screen_empty_wight
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 0
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 31.5}
+        - {x: 31.5, y: 31.5}
+        - {x: -31.5, y: -31.5}
+      - - {x: -31.5, y: -31.5}
+        - {x: 31.5, y: 31.5}
+        - {x: 31.5, y: -31.5}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_icon_event_2_silver
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 133
+        width: 108
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 72}
+        - {x: 54, y: 72}
+        - {x: -54, y: -72}
+      - - {x: -54, y: -72}
+        - {x: 54, y: 72}
+        - {x: 54, y: -72}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figere 6
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 321
+        width: 56
+        height: 84
+      alignment: 9
+      pivot: {x: 0.235658, y: 0.5049993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 42}
+        - {x: 28, y: 42}
+        - {x: -28, y: -42}
+      - - {x: -28, y: -42}
+        - {x: 28, y: 42}
+        - {x: 28, y: -42}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figere 1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 133
+        width: 30
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: 15, y: 16}
+        - {x: -15, y: -16}
+      - - {x: -15, y: -16}
+        - {x: 15, y: 16}
+        - {x: 15, y: -16}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_icon_event_2_game_gold
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 67
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 31.5}
+        - {x: 31.5, y: 31.5}
+        - {x: -31.5, y: -31.5}
+      - - {x: -31.5, y: -31.5}
+        - {x: 31.5, y: 31.5}
+        - {x: 31.5, y: -31.5}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figere 9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 262
+        width: 150
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 76}
+        - {x: 75, y: 76}
+        - {x: -75, y: -76}
+      - - {x: -75, y: -76}
+        - {x: 75, y: 76}
+        - {x: 75, y: -76}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figere 4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 429
+        width: 92
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 15}
+        - {x: 46, y: 15}
+        - {x: -46, y: -15}
+      - - {x: -46, y: -15}
+        - {x: 46, y: 15}
+        - {x: 46, y: -15}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_icon_game_bronze
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 134
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 31.5}
+        - {x: 31.5, y: 31.5}
+        - {x: -31.5, y: -31.5}
+      - - {x: -31.5, y: -31.5}
+        - {x: 31.5, y: 31.5}
+        - {x: 31.5, y: -31.5}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_icon_game_screen_empty_wight
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 31.5}
+        - {x: 31.5, y: 31.5}
+        - {x: -31.5, y: -31.5}
+      - - {x: -31.5, y: -31.5}
+        - {x: 31.5, y: 31.5}
+        - {x: 31.5, y: -31.5}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

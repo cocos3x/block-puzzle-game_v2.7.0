@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "AwardsAlpha8"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 5ba53601aede42fb8ab52cd61e7fb901, type: 3}
+    - {fileID: 21300000, guid: 3cb938404bd646d7a8fb16feeec306b8, type: 3}
+    - {fileID: 21300000, guid: b623b783faf24f11aa5b56140a03f05b, type: 3}
+    - {fileID: 21300000, guid: 4e6b9b74f8294135932ae9f984660f98, type: 3}
+    - {fileID: 21300000, guid: 9ae1390b4dd346bea00083575e1944f9, type: 3}
+    - {fileID: 21300000, guid: bd7332c184f64e1eab9b7b0c2f97e4c8, type: 3}
+    - {fileID: 21300000, guid: d1af7cd8dc3d46c2b5f6454cf9fc2372, type: 3}
+    - {fileID: 21300000, guid: e051725265cc40ce996c13409fc3cbfc, type: 3}
+    - {fileID: 21300000, guid: b62ab6384fcb4c8a97a5e6aeaaeb8872, type: 3}
+    - {fileID: 21300000, guid: 6c81f57857a549db864ced218f3e433e, type: 3}
+    - {fileID: 21300000, guid: 6b5a2a070a7640ce9d0025389c0f9eac, type: 3}
+    - {fileID: 21300000, guid: dcfb5637bb6046d7b469ec9b0f95a8c3, type: 3}
+    - {fileID: 21300000, guid: 8248528092454d13b9e7d6573ca88bb3, type: 3}
+    - {fileID: 21300000, guid: 50beb8e460e04cc2a8bc66162b842d44, type: 3}
+    - {fileID: 21300000, guid: 6dc12d3670b545a6993fc8d28ebb3ba8, type: 3}
+    - {fileID: 21300000, guid: 058adb2533c24303bd36f48bff0a8a3b, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "AwardsAlpha8"
+  m_IsVariant: 0
